@@ -1,0 +1,116 @@
+Project Number: 1
+Project Name: Apartment Booth
+Building Type: Apartment
+Building Address: 123 Milner Road
+ERF Number: 123
+Total Fee: R40000,00
+Total Paid: R0,00
+Total Owed: R40000,00
+Deadline: 03-02-2025
+Date Complete: 30-05-2022
+
+Architect
+Name: Lisa De Sousa
+Telephone number: 083 567 9876
+Email: lisa@desousa.com
+Address: 11 Max Road
+
+Contractor
+Name: Ian Jones
+Telephone number: 074 321 9876
+Email: ian@jones.co.za
+Address: 6 Kingsway
+
+Customer
+Name: Chris Booth
+Telephone number: 072 336 2004
+Email: chris@booth.com
+Address: 174 Milner Road
+
+Project Number: 2
+Project Name: House Potter
+Building Type: House
+Building Address: 456 Godric Hollow
+ERF Number: 934
+Total Fee: R10000,00
+Total Paid: R0,00
+Total Owed: R10000,00
+Deadline: 03-04-2022
+Date Complete: Incomplete
+
+Architect
+Name: Hermione Granger
+Telephone number: 083 567 9876
+Email: hermoine@granger.com
+Address: 11 Hogwarts
+
+Contractor
+Name: Ron Weasley
+Telephone number: 074 321 9876
+Email: ron@weasley.co.za
+Address: 100 Hogshead
+
+Customer
+Name: Harry Potter
+Telephone number: 072 336 2004
+Email: harry@potter.com
+Address: 934 Kings Cross
+
+Project Number: 3
+Project Name: Office Park Doctor
+Building Type: Office Park
+Building Address: 100 Trensalor
+ERF Number: 6789
+Total Fee: R100000,00
+Total Paid: R0,00
+Total Owed: R100000,00
+Deadline: 03-04-2024
+Date Complete: 03-05-2022
+
+Architect
+Name: Rose Tyler
+Telephone number: 083 567 9876
+Email: rose@tyler.com
+Address: 123 London
+
+Contractor
+Name: Amy Pond
+Telephone number: 074 321 9876
+Email: amy@pond.co.za
+Address: 100 Pond Lake
+
+Customer
+Name: The Doctor
+Telephone number: 072 336 2004
+Email: the@doctor.com
+Address: The Tardis
+
+Project Number: 4
+Project Name: Apartment Bill
+Building Type: Apartment
+Building Address: 123 Milner
+ERF Number: 123
+Total Fee: R45,00
+Total Paid: R0,00
+Total Owed: R45,00
+Deadline: 03-05-2025
+Date Complete: 30-05-2022
+
+Architect
+Name: Bob
+Telephone number: Bob
+Email: Bob
+Address: Bob
+
+Contractor
+Name: Gary
+Telephone number: Gary
+Email: Gary
+Address: Gary
+
+Customer
+Name: Bill
+Telephone number: Bill
+Email: Bill
+Address: Bill
+
